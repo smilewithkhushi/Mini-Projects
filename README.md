@@ -1,7 +1,6 @@
 # Projects
-Since I can't feature all my favourite projects, here's a repo combining all of my loved creations.
+A repo combining all of the mini projects I've built.
 <hr>
-<h1> ~ List of Projects~ </h1>
 <h2>🌐 Web Based Projects</h2>
 <ul>
 <li><a href="https://github.com/smilewithkhushi/To-Do-App-Using-React">To-Do Application (React)</a></li>
@@ -54,4 +53,4 @@ Since I can't feature all my favourite projects, here's a repo combining all of 
 </ul>
 <hr>
 <h5> So you've scrolled till the end!👀 Make sure you ⭐ this repository (since you've discovered this repo)!</h5>
-<h6> DISCLAIMER: Project chori karne par paap lgega🙂 </h6>
+<h6>  </h6>
