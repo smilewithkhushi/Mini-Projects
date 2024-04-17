@@ -34,7 +34,7 @@ Mini project ideas (with codes) which you can build while learning a new tech st
 | Unit Converter | Android app for Unit Conversions | Java, XML | https://github.com/smilewithkhushi/Unit-Converter-App | 
 | Iridesence | The Color detector app | Java, XML | https://github.com/smilewithkhushi/Iridesence-The-color-app |
 | Basic Native | Collection of Mini projects | React Native Expo | https://github.com/smilewithkhushi/BasicNative |
-
+| Basic Flutter | Collection of Mini projects | Flutter, Dart | https://github.com/smilewithkhushi/BasicFlutter |
 <hr>
 <h2>📊 Data Science Projects</h2>
 <ul>
