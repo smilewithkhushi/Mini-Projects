@@ -1,39 +1,40 @@
 # Projects
-A repo combining all of the mini projects I've built.
+Mini project ideas (with codes) which you can build while learning a new tech stack.
+
 <hr>
+
 <h2>🌐 Web Based Projects</h2>
-<ul>
-<li><a href="https://github.com/smilewithkhushi/To-Do-App-Using-React">To-Do Application (React)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Portfolio-Khushi-Panwar">Portfolio Website (React)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Online-CS-Quiz">Online CS Quiz (React)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Meme-Generator">Meme Generator (React)</a></li>
 <br>
-<li><a href="https://github.com/smilewithkhushi/Basic-Banking-System">Basic Banking System (PHP)</a></li>
-<br>
-<li><a href="https://github.com/smilewithkhushi/studics">Studics : E-Learning Platform (Bootstrap)</a></li>
-<br>
-<li><a href="https://cloud-study-jams-2023.vercel.app/">Cloud Study Jams Website</a></li>
-<li><a href="https://gcaf-leaderboard.vercel.app/">GCAF Program Website</a></li>
-<li><a href="https://github.com/smilewithkhushi/HEX-COLOR-APPLICATION">Hex Color Application</a></li>
-<li><a href="https://github.com/smilewithkhushi/Calculator">Calculator</a></li>
-<li><a href="https://github.com/smilewithkhushi/Magic-8-Ball-Fortune-Teller">Magic 8 Ball Fortune Teller</a></li>
-</ul>
+
+| Name               | Description | Tech Stack | Code  |
+| ---                |     ---     |      ---   | ---   |
+| To-Do Application | Track your tasks | ReactJS | https://github.com/smilewithkhushi/To-Do-App-Using-React |
+| Portfolio Website | Showcase your work | ReactJS | https://github.com/smilewithkhushi/sample-portfolio |
+| Online CS Quiz | Coding related quiz with Point evaluation | ReactJS| https://github.com/smilewithkhushi/Online-CS-Quiz |
+| Basic Banking System | Send & Recieve Transactions, View history and more! | PHP, MySQL, HTML, CSS | https://github.com/smilewithkhushi/Basic-Banking-System |
+| Studics | E-Learning platform website | Bootstrap |https://github.com/smilewithkhushi/studics |
+| GCCP Website | Google Cloud study jams website | HTML, CSS, JS | https://cloud-study-jams-2023.vercel.app/ |
+| Hex Color Application | Color Generator | HTML, CSS, JS | https://github.com/smilewithkhushi/HEX-COLOR-APPLICATION |
+| Calculator | Basic mathematical calculator | HTML, CSS, JS | https://github.com/smilewithkhushi/Calculator |
+| Magic 8 Ball | Fortune Teller Size | HTML, CSS, JS | https://github.com/smilewithkhushi/Magic-8-Ball-Fortune-Teller |
 
 <hr>
 <h2>📱Android/Application Based Projects</h2>
-<ul>
-<li><a href="https://github.com/smilewithkhushi/calculator-app">Calculator (Kotlin)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Atman-Bliss-App">Atman Bliss App : The Health Care buddy (Jetpack Compose)</a></li>
-<li><a href="https://github.com/smilewithkhushi/ContactPlus">Contact Plus : Manage your contacts(Kotlin)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Learn-Android-Development-App">Android Learning App (Kotlin)</a></li>
-<li><a href="https://github.com/smilewithkhushi/IntelliLearn">Intellilearn : The Study App (Kotlin)</a></li>
-<li><a href="https://github.com/smilewithkhushi/shopping-app ">Shopping App (Retrofit, Kotlin) </a></li>
-<br>
-<li><a href="https://github.com/smilewithkhushi/FinBud-Finance-Manager">FinBud : Finance Manager (Core Java, Swings)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Java-Projects">Calculator (Core Java, Swings)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Unit-Converter-App">Unit Converter Applicatoin (Java)</a></li>
-<li><a href="https://github.com/smilewithkhushi/Iridesence-The-color-app">Iridesence : The color app (Java)</a></li>
-</ul>
+
+| Name               | Description | Tech Stack | Code  |
+| ---                |     ---     |      ---   | ---   |
+| Calculator | Aesthetic Mathematical calculator | Kotlin | https://github.com/smilewithkhushi/calculator-app |
+| Atman Bliss | Your Mental Health & Self care buddy | Jetpack Compose, Kotlin |https://github.com/smilewithkhushi/Atman-Bliss-App |
+| Contact Plus | Manage your contacts | Kotlin, Firebase | https://github.com/smilewithkhushi/ContactPlus |
+| Inteli-Learn | The study app | Kotlin, Firebase | https://github.com/smilewithkhushi/IntelliLearn | 
+| Basic App Dev | Learn Kotlin & App Development | Kotlin | https://github.com/smilewithkhushi/Learn-Android-Development-App |
+| Shopping App | Shop your favourite items | Kotlin, Retrofit | https://github.com/smilewithkhushi/shopping-app |
+| FinBud | Finance Management GUI Application | Core java, Swings, AWT | https://github.com/smilewithkhushi/FinBud-Finance-Manager |
+| Calculator | A GUI Based Basic Calculator | Core java, Swings, AWT |https://github.com/smilewithkhushi/Java-Projects |
+| Unit Converter | Android app for Unit Conversions | Java, XML | https://github.com/smilewithkhushi/Unit-Converter-App | 
+| Iridesence | The Color detector app | Java, XML | https://github.com/smilewithkhushi/Iridesence-The-color-app |
+| Basic Native | Collection of Mini projects | React Native Expo | https://github.com/smilewithkhushi/BasicNative |
+
 <hr>
 <h2>📊 Data Science Projects</h2>
 <ul>
