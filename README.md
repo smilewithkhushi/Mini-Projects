@@ -35,22 +35,27 @@ Mini project ideas (with codes) which you can build while learning a new tech st
 | Iridesence | The Color detector app | Java, XML | https://github.com/smilewithkhushi/Iridesence-The-color-app |
 | Basic Native | Collection of Mini projects | React Native Expo | https://github.com/smilewithkhushi/BasicNative |
 | Basic Flutter | Collection of Mini projects | Flutter, Dart | https://github.com/smilewithkhushi/BasicFlutter |
-<hr>
-<h2>📊 Data Science Projects</h2>
-<ul>
-  <li><a href="https://github.com/smilewithkhushi/Data-Science-Projects">Beginner Projects</a></li>
-</ul>
+
 <hr>
 <h2>🖤Web 3 Based Projects</h2>
-<ul>
-  <li><a href="https://github.com/smilewithkhushi"> revealing soon :)</li>
-</ul>
+
+| Name               | Description | Tech Stack | Code  |
+| ---                |     ---     |      ---   | ---   |
+| Crypto Tea | A DApp to buy you a tea | Hardhat, solidity, React, Etherjs | https://github.com/smilewithkhushi/crypto-tea |
+| CertiFi | Certify your achievements in NFT on-chain | Solidity, React, Etherjs | https://github.com/smilewithkhushi/CertiFi |
+
 <hr>
 <h2>👩🏻‍🏫A-Z Learning Repo</h2>
 <ul>
   <li><a href="https://github.com/smilewithkhushi/Everything-with-Python">Python</a></li>
   <li><a href="https://github.com/smilewithkhushi/Everything-with-CPP">C++</a></li>
   <li><a href="https://github.com/smilewithkhushi/Everything-with-Java">Java</a></li>
+  <li><a href="htps://github.com/smilewithkhushi/solidity-basics">Solidity </a></li>
+</ul>
+<hr>
+<h2>📊 Data Science Projects</h2>
+<ul>
+  <li><a href="https://github.com/smilewithkhushi/Data-Science-Projects">Beginner Projects</a></li>
 </ul>
 <hr>
 <h5> So you've scrolled till the end!👀 Make sure you ⭐ this repository (since you've discovered this repo)!</h5>
